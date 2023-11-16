@@ -11,7 +11,7 @@ In this project, we aim to enhance the quality and clarity of MRI brain scans us
   - **Published in**: Neurocomputing, Volume 479, Pages 47-59
   - **DOI**: [10.1016/j.neucom.2022.01.029](https://doi.org/10.1016/j.neucom.2022.01.029)
 
-3. **Modified SRCNN Model:** We introduce a deep convolutional neural network (CNN) with dense blocks for feature extraction and residual connections for high-frequency detail learning. This approach draws inspiration from "Brain MRI SR Using 3D Deep Densely Connected NN" and "Residual Dense Network for Image Super-Resolution."
+2. **Modified SRCNN Model:** We introduce a deep convolutional neural network (CNN) with dense blocks for feature extraction and residual connections for high-frequency detail learning. This approach draws inspiration from "Brain MRI SR Using 3D Deep Densely Connected NN" and "Residual Dense Network for Image Super-Resolution."
 
 Our study utilizes the BRaTS Brain Tumor Segmentation dataset from 2018 to 2020, with a specific focus on T1CE scans. We will evaluate the models using established metrics such as PSNR (Peak Signal-to-Noise Ratio), SSIM (Structural Similarity Index Measure), LPIPS (Learned Perceptual Image Patch Similarity), LR_PSNR (Low-Resolution PSNR), and pixel standard deviation. These metrics will assess the improvements in MRI scan quality, emphasizing image clarity and detail enhancement. Our goal is to develop more effective and precise imaging methods, enhancing the reliability of diagnostic processes.
 
