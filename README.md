@@ -29,3 +29,11 @@ BRaTS Brain Tumor Segmentation
 - It includes multi-institutional pre-operative MRI scans from 2018 to 2020, providing a diverse range of images.
 - Focus on T1-weighted contrast-enhanced (T1CE) scans, known for their high detail and contrast, ideal for super-resolution tasks.
 
+## Train & Evaluate
+1. Prepare datasets. Please refer to Dataset Preparation.
+2. Modify config files.
+
+## Results
+
+## Citation
+
