@@ -13,6 +13,17 @@ In this project, we aim to enhance the quality and clarity of MRI brain scans us
 
 2. **Modified SRCNN Model:** We introduce a deep convolutional neural network (CNN) with dense blocks for feature extraction and residual connections for high-frequency detail learning. This approach draws inspiration from "Brain MRI SR Using 3D Deep Densely Connected NN" and "Residual Dense Network for Image Super-Resolution."
 
+**Paper Reference:**  
+- **Title**: Brain MRI super resolution using 3D deep densely connected neural networks
+  - **Authors**: Yuhua Chen; Yibin Xie; Zhengwei Zhou; Feng Shi; Anthony G. Christodoulou; Debiao Li
+  - **Published in**: 2018 IEEE 15th International Symposium on Biomedical Imaging (ISBI 2018)
+  - **DOI**: 10.1109/ISBI.2018.8363679 (https://ieeexplore.ieee.org/abstract/document/8363679)
+ 
+- **Title**: Residual Dense Network for Image Super-Resolution
+  - **Authors**: Yulun Zhang; Yapeng Tian; Yu Kong; Bineng Zhong; Yun Fu
+  - **Published in**: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
+  - **DOI**: 10.1109/CVPR.2018.00262 (https://ieeexplore.ieee.org/document/8578360/authors#authors)
+
 Our study utilizes the BRaTS Brain Tumor Segmentation dataset from 2018 to 2020, with a specific focus on T1CE scans. We will evaluate the models using established metrics such as PSNR (Peak Signal-to-Noise Ratio), SSIM (Structural Similarity Index Measure), LPIPS (Learned Perceptual Image Patch Similarity), LR_PSNR (Low-Resolution PSNR), and pixel standard deviation. These metrics will assess the improvements in MRI scan quality, emphasizing image clarity and detail enhancement. Our goal is to develop more effective and precise imaging methods, enhancing the reliability of diagnostic processes.
 
 ## Environment Installation
