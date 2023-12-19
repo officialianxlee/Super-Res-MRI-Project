@@ -30,4 +30,5 @@ Dataset can be found here: https://drive.google.com/drive/folders/104mZkiHqriF2t
 
 **Links to Colab**
 
+*update name* Approach: https://colab.research.google.com/drive/1o5t5duzKJUf1aJvEidCj67aGGz8-ym4t?usp=sharing
 SRCNN Approach: https://colab.research.google.com/drive/1-DrOp5qtKGkD1A8r6vcki46Oh3Ue2Vjk#scrollTo=F146M3JBTHp_&uniqifier=1
