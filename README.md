@@ -28,4 +28,5 @@ Our study utilizes the BRaTS Brain Tumor Segmentation dataset from 2018 to 2020,
 
 Dataset can be found here: https://drive.google.com/drive/folders/104mZkiHqriF2tR5tVn4aLOA094xbWS-4?usp=share_link
 
-
+**Links to Colab**
+SRCNN Approach: https://colab.research.google.com/drive/1-DrOp5qtKGkD1A8r6vcki46Oh3Ue2Vjk#scrollTo=F146M3JBTHp_&uniqifier=1
